@@ -6,9 +6,18 @@
 
 **DataMinds** Solutions es una empresa especializada en ofrecer servicios de consultoría en análisis de datos y toma de decisiones basada en información estratégica. Con un equipo altamente calificado, estamos comprometidos en brindar soluciones efectivas para satisfacer las necesidades específicas de nuestros clientes.
 
+<p align="center">
+  <img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/5/0/950321c11d_50173256_data-science-1.jpg" width="300"/>
+</p>
+
 ## Objetivo
 
 Nuestro principal objetivo es proporcionar a nuestros clientes recomendaciones sólidas y respaldadas por datos. Utilizamos técnicas de Machine Learning y análisis predictivo para evaluar tendencias e identificar oportunidades. Nuestra misión es ofrecer a los inversionistas información precisa que les permita tomar decisiones fundamentadas y estratégicas. A través de modelos analíticos y la interpretación experta de datos, buscamos maximizar el rendimiento, adaptándonos a las necesidades específicas de cada cliente.
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.OCvrb6WvDfszLRgPQbuFtAHaGt?rs=1&pid=ImgDetMain" width="300"/>
+</p>
+
 
 ## Empresa Inversionista
 
@@ -20,15 +29,15 @@ Recopilar, depurar y disponibilizar la información: Creación de una base de da
 
 ## Stack Tecnológico
 
-- Numpy
-- Pandas
-- Python
-- Jupyter Notebook
-- Jira
-- Power BI
-- GitHub
-- Git
-- Visual Studio 
+| Numpy | NLTK |
+| Pandas | Scikit-learn |
+| Python | MD |
+| Jupyter Notebooks | GCP | 
+| Jira | 
+|Power Bi|
+| GitHub |
+| Git |
+| Visual Studio| 
 
 ___
 ## COLABORADORES 
