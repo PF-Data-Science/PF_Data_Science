@@ -28,7 +28,19 @@ Recopilar, depurar y disponibilizar la información: Creación de una base de da
 - Power BI
 - GitHub
 - Git
-- Visual Studio Code
+- Visual Studio 
+
+___
+## COLABORADORES 
+
+__
+
+| Puesto | Nombre | Usuario de GitHub |
+| ------ | ------ | ----------------- |
+| Data Engineer | Yaiden Solis Dominguez | Comunicaciones1995 |
+| Data Analyst | Joshua Giovanni Esquivel Fuentes | JGIOVANNIE |
+| Data Scientist | Nicolas Agustin Ibarra | nicovid-ibarra |
+| Data Scientist | Sebastian Diaz Gaviria | Sebastiandiazgav |
 
 
 
