@@ -1,0 +1,7 @@
+pandas
+google-cloud-storage 
+functions-framework	
+google-auth	
+google-auth-oauthlib 
+pandas-gbq 
+google-cloud-bigquery
